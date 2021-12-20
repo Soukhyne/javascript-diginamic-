@@ -1,0 +1,17 @@
+input {
+  width: 280px;
+}
+.recherche,
+#resultat {
+  margin: 0 auto;
+  width: 500px;
+}
+
+#poster {
+  width: 500px;
+}
+
+h1,
+p {
+  text-align: center;
+}
