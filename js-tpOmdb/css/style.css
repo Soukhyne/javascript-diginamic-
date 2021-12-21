@@ -1,17 +1,18 @@
-input {
-  width: 280px;
+header,
+h1,
+p {
+  text-align: center;
 }
-.recherche,
+.recherche {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 #resultat {
   margin: 0 auto;
   width: 500px;
 }
 
-#poster {
+.poster {
   width: 500px;
-}
-
-h1,
-p {
-  text-align: center;
 }
